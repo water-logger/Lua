@@ -60,8 +60,6 @@ local function yabba(text)
 	light.Enabled = false
 	wait(0.2)
 	light.Enabled = true
-	wait(0.2)
-	light.Enabled = false
 	
 	explosion.Position = char:FindFirstChild("HumanoidRootPart").Position
 	explosion.DestroyJointRadiusPercent = 1
