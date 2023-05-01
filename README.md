@@ -5,7 +5,7 @@ This repository is about the scripts **I** have made.
  The scripts here are designed to be used with [Roblox exploits](https://roblox.fandom.com/wiki/Exploit), otherwise known as "hacks".
  <br />
   <br />
- I learned how to exploit around 2 years ago. It was fun thinking that everyone could see what I was doing to the server. Later, I discovered that the stuff I was doing was client side ( Only **you** can see ) and became a little sad. I then decided to learn how to script so I could make things that everyone could see. Long story short, I couldn't.
+ I learned how to exploit around 2 years ago. It was fun thinking that everyone could see what I was doing to the server. Later, I discovered that the stuff I was doing was client side ( Only **you** can see ) and became a little sad. I then decided to learn how to script so I could make things that everyone could see. Long story short, I couldn't. These are client side.
  <br />
  <br />
 Example Script ( Works on any exploit ):
