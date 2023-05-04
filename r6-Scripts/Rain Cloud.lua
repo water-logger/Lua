@@ -34,5 +34,5 @@ while true do
 	
 	wait(0.025)
 	timer = timer + 0.025
-	part.Position = Vector3.new(posX, (math.cos(timer - 2) * 1.25) * 3 + 10, posZ)
+	part.Position = Vector3.new(posX, (math.cos(timer - 2) * 1.25) * 3 + 10, posZ) --Simple math
 end
