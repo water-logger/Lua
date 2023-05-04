@@ -68,6 +68,6 @@ end
 
 uis.InputBegan:Connect(function(key)
 	if key.KeyCode == Enum.KeyCode.F then
-		yabba("\65\108\108\97\104\117\32\97\107\98\97\114\33") --yabba("A")
+		yabba("\65\108\108\97\104\117\32\97\107\98\97\114\33") --This is bytecode because I didn't want my account and script to get deleted ( It says [REDACTED] )
 	end
 end)
