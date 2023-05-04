@@ -14,7 +14,7 @@ part.Name = "stupid cloud"
 mesh.Parent = part
 mesh.Scale = Vector3.new(4, 2, 4)
 mesh.MeshId = "rbxassetid://11328480674"
-mesh.Name = "i am the storm that is approaching, provoking, black clouns in isolation. I am reclaimer of my name, born in flame. I have been blessed, my family crest is a demon of death!"
+mesh.Name = "I am the storm that is approaching, provoking, black clouns in isolation. I am reclaimer of my name, born in flame. I have been blessed, my family crest is a demon of death!"
 
 ParticleEmitter.LightInfluence = 1
 ParticleEmitter.Lifetime = NumberRange.new(1, 1)
