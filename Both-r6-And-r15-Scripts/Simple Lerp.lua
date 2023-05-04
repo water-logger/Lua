@@ -1,6 +1,6 @@
 --Simple Lerp
 --	Made by _water#3201
---  This example is r6
+--	This example is r6
 
 --Variables
 local plr = game.Players.LocalPlayer
@@ -20,7 +20,7 @@ local function createLerp(autoConvertAngles, object, px, py, pz, rx, ry, rz, alp
 		end
 	else
 		local name = object.ClassName
-    error("The object's class has to be Motor6D; Object Class = "..name.."", 1)
+    		error("The object's class has to be Motor6D; Object Class = "..name.."", 1)
 	end
 end
 --End
